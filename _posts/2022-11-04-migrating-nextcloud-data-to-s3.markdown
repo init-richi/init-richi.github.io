@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Migrating Nextcloud local storage to s3 compatible local storage"
+title:  "Migrating Nextcloud local storage to s3 compatible object storage"
 date:   2022-11-04 09:28:29 +0100
 categories: nextcloud s3 storage
 ---
